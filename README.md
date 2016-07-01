@@ -50,9 +50,7 @@ Create folder your-magento-path/vendor/magento/langugae-zh_hans_cn and extract z
 
 | Key | Total | Translated | Left | Progression |
 | :----- | -------------: | -----------------------: | -----------------------: | :---------: |
-| Component Magento2_Base | 38 | 38 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Custom Imaginaerum | 73 | 73 | 0 | ![Progress](http://progressed.io/bar/100) |
-| Deprecated Imaginaerum | 244 | 244 | 0 | ![Progress](http://progressed.io/bar/100) |
+| Magento2_Base | 38 | 38 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/adminhtml/backup.js | 4 | 4 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/adminhtml/wysiwyg/widget.js | 1 | 1 | 0 | ![Progress](http://progressed.io/bar/100) |
 | Lib lib/web/mage/backend/suggest.js | 3 | 3 | 0 | ![Progress](http://progressed.io/bar/100) |
